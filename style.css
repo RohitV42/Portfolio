@@ -1,0 +1,76 @@
+#headJumbo img {
+    height: 200px;
+     width: auto;
+}
+
+#headJumbo {
+    color: white;
+}
+
+#headJumbo h1 {
+    font-size: 4rem;
+}
+
+#headJumbo h3 {
+    font-size: 2.4rem;
+}
+
+.jumbotron {
+    background-color: slategray;
+}
+
+#skills svg.svg-inline--fa { 
+    font-size: 6rem;
+    margin : auto; 
+    color: firebrick;
+    margin: 6px;
+
+}
+
+#skills svg.svg-inline--fa:hover { 
+    color: green!important;
+    font-size: 20rem;
+
+}
+
+/* Project Showcase */
+
+.carousel-indicators li {
+    display: none;
+}
+
+/*  work history */
+
+#RecentExp h1 {
+    font-size: 2rem;
+    text-decoration: underline royalblue;
+}
+
+#RecentExp h3 {
+    font-size: 2rem;
+    text-decoration: underline royalblue;
+}
+
+/* Cards */
+
+#Card1 .card {
+    margin-top: 50px;
+    box-shadow: rgba(255, 13, 0, 0.698);
+}
+
+#Card1 {
+    margin-top: 50px;
+}
+
+.card-header {
+    background-color: rgba(13, 13, 195, 0.777);
+    color: antiquewhite;
+    font-size: xx-large;
+}
+
+/* footer */
+
+#footer {
+    background-color: black;
+    color: azure;
+}
